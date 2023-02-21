@@ -1,7 +1,5 @@
 ## Welcome to BioBreak 👋
 
-<!--
-
 **BioBreak Provides Biotech Investors With:**
 
 📈 Stock chart with technical analysis tools and indicators
@@ -21,4 +19,3 @@
 ![image](https://user-images.githubusercontent.com/106357206/220455979-a9fca265-19ba-4f6d-9929-00c58d18e342.png)
 
 💊 3d modeling of pipeline assets and quick link to competition / similar studies
--->
