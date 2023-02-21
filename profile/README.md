@@ -1,5 +1,5 @@
 ## Welcome to BioBreak 👋
-## Developed by Zion Miller ([Linkedin](https://www.linkedin.com/in/zion-miller-b15344170/)) and Jared Mumaw([Linkedin](https://www.linkedin.com/in/jared-mumaw-9395a6243/))
+To discuss our code or speak with the developers, please reach out to our team via Linkedin: Zion Miller ([Linkedin](https://www.linkedin.com/in/zion-miller-b15344170/)) and Jared Mumaw([Linkedin](https://www.linkedin.com/in/jared-mumaw-9395a6243/))
 
 **BioBreak Provides Biotech Investors With:**
 
